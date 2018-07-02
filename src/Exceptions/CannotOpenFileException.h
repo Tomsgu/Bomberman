@@ -1,0 +1,8 @@
+//
+// Created by tomsgu on 5/19/17.
+//
+
+#ifndef BOMBERMAN_CANNOTOPENFILEEXCEPTION_H
+#define BOMBERMAN_CANNOTOPENFILEEXCEPTION_H
+class CannotOpenFileException{};
+#endif //BOMBERMAN_CANNOTOPENFILEEXCEPTION_H
